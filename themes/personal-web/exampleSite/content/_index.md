@@ -1,7 +1,7 @@
 ---
 title: HOME
 description: Welcome to this sample project
-images: ["NM-3420.jpg"]
+images: ["/images/sample.jpg"]
 ---
 
 Salve, hola, bonjour, tudo bem, wie gehts et annyeong, 

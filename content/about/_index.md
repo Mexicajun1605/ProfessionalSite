@@ -1,5 +1,5 @@
 ---
-description: Hey, I'm Edna West
+description: Hola, Soy Sam
 images:
 - /images/sample.jpg
 title: ABOUT

@@ -1,6 +1,6 @@
-baseURL = "https://example.com/"
+baseURL = "https://sljsamssite.netlify.app/"
 languageCode = "en-us"
-title = "Edna West"
+title = "Samuel Johnson"
 theme = "personal-web"
 copyright="© Edna West"
 googleAnalytics = ""
@@ -40,7 +40,7 @@ pygmentsCodeFences=true
   portfolio = "project"
 
 [params.sidebar]
-  backgroundImage = 'NM-2881.jpg' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
+  backgroundImage = '/images/NM-2881.jpg' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
   gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
 [params.assets]
   favicon = ""
