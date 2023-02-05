@@ -10,8 +10,8 @@ pygmentsUseClasses=true
 pygmentsCodeFences=true
 
 [params.intro]
-  main = "Hi, I'm Edna :wave:"
-  sub = "I'm a Web Developer and Entrepreneur"
+  main = "¡Hola! Soy Sam."
+  sub = "I am a linguist, Data Analyst and Spanish Instructor"
 
 [params.main]
   latestPublishHeader = "My Latest Project"
@@ -40,27 +40,26 @@ pygmentsCodeFences=true
   portfolio = "project"
 
 [params.sidebar]
-  backgroundImage = '' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
+  backgroundImage = 'NM-2881.jpg' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
   gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
-  logo = "" # - default "/images/edna-west.jpg"
 [params.assets]
   favicon = ""
   customCSS = ""
 
 [params.social]
-  github = "https://github.com/"
+  github = "https://github.com/Mexicajun1605"
   twitter = "https://twitter.com/"
-  linkedin = "https://www.linkedin.com/in/"
+  linkedin = "https://www.linkedin.com/in/samuel-johnson-b9263622a/"
   medium = "https://medium.com/"
   codepen = "https://codepen.io/"
   facebook = "https://www.facebook.com/"
-  youtube = "https://www.youtube.com/"
+  youtube = "https://www.youtube.com/channel/UCpOnqfVILHIOUKhW5BiEEnQ"
   instagram = "https://www.instagram.com/"
   gitlab = "https://gitlab.com/"
   keybase = "https://keybase.io/"
 
 [params.contact]
-  email = ""
+  email = "samuellamar.johnson@gmail.com"
   text= "" # text of the contact link in the sidebar. If email params.contact.email is defined
 
 
