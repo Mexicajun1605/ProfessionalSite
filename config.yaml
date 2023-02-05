@@ -1,8 +1,7 @@
 baseURL: https://sljsamssite.netlify.app/
 languageCode: en-us
-title: Edna West
+title: Samuel Johnson
 theme: personal-web
-copyright: © Edna West
 googleAnalytics: ''
 enableEmoji: yes
 enableRobotsTXT: yes
@@ -15,11 +14,11 @@ params:
     favicon: ''
   breadcrumb: yes
   contact:
-    email: ''
+    email: 'samuellamar.johnson@gmail.com'
     text: ''
   intro:
-    main: 'Hi, I''m Edna :wave:'
-    sub: I'm a Web Developer and Entrepreneur
+    main: '¡Hola! Soy Sam.'
+    sub: I am a linguist, Data Analyst and Spanish Instructor
   main:
     latestPublishHeader: My Latest Project
   mainSections: portfolio
@@ -35,15 +34,8 @@ params:
     gradientOverlay: ''
     logo: ''
   social:
-    codepen: https://codepen.io/
-    facebook: https://www.facebook.com/
     github: https://github.com/
-    gitlab: https://gitlab.com/
-    instagram: https://www.instagram.com/
-    keybase: https://keybase.io/
     linkedin: https://www.linkedin.com/in/
-    medium: https://medium.com/
-    twitter: https://twitter.com/
     youtube: https://www.youtube.com/
 taxonomies:
   design: designs
