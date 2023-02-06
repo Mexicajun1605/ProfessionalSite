@@ -5,10 +5,10 @@ images:
 title: HOME
 ---
 
-Hey,
+Hola, Bonjour, Tudo bem, Wie gehts, et Salve,
 
-I'm Edna West, a Web Developer and Entrepreneur.
+My name is Samuel Johnson and welcome to my website. Here you can find some of my professional projects, my CV, and educational materials related to topics I am interested in such as linguistics, programming, and philosophy. 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus error cumque quisquam necessitatibus libero dolore porro, quo at molestiae modi voluptatibus iusto alias corporis. Accusamus, debitis, atque. Maiores, distinctio, neque.
+I hope you have a great day. 
 
 [Get to know me better](/about "Get to know me better")
