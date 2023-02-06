@@ -30,9 +30,9 @@ params:
     portfolio: project
     post: article
   sidebar:
-    backgroundImage: ''
+    backgroundImage: '/images/NM-2821.jpg'
     gradientOverlay: ''
-    logo: ''
+    logo: '/images/NM-3420.jpg'
   social:
     github: https://github.com/Mexicajun1605
     linkedin: https://www.linkedin.com/in/samuel-johnson-b9263622a/
